@@ -15,7 +15,7 @@
 
 ## 技术
 
-<a href="https://tinylab.gitbooks.io/cbook/">C语言编程透视</a>
+<a href="https://tinylab.gitbooks.io/cbook/" target=_blank>C语言编程透视</a>
 
 ## 文学
 
