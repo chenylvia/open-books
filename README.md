@@ -16,6 +16,7 @@
 ## 技术
 
 [C语言编程透视](https://tinylab.gitbooks.io/cbook/)
+[快乐的Linux命令行](http://billie66.github.io/TLCL/index.html)
 
 ## 文学
 
