@@ -1,4 +1,4 @@
-# ebooks
+# open-books
 收集一些开源书籍。
 
 ## 索引
@@ -24,7 +24,10 @@
 [C语言编程透视](https://tinylab.gitbooks.io/cbook/)    
 [快乐的Linux命令行](http://billie66.github.io/TLCL/index.html)  
 [我爱Ruby](https://i-love-ruby.gitlab.io/)  
-[Think Python](https://www.ctolib.com/docs/sfile/think-python-2e/0.html)   
+[Think Python](https://www.ctolib.com/docs/sfile/think-python-2e/0.html)  
+[Go语言圣经](https://github.com/golang-china/gopl-zh)
+[Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)  
+[Shell 编程范例](https://gitbook.com/book/tinylab/shellbook)
 
 ## 算法
 
