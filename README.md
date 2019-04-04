@@ -28,6 +28,8 @@
 [Go语言圣经](https://github.com/golang-china/gopl-zh)
 [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)  
 [Shell 编程范例](https://gitbook.com/book/tinylab/shellbook)
+[On Lisp](https://www.kancloud.cn/ituring/on-lisp/56192)
+[Practical Common Lisp](http://www.gigamonkeys.com/book/)
 
 ## 算法
 
