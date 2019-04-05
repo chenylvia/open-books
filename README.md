@@ -29,7 +29,8 @@
 [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)  
 [Shell 编程范例](https://gitbook.com/book/tinylab/shellbook)  
 [On Lisp](https://www.kancloud.cn/ituring/on-lisp/56192)   
-[Practical Common Lisp](http://www.gigamonkeys.com/book/)   
+[Practical Common Lisp](http://www.gigamonkeys.com/book/)  
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ## 算法
 
@@ -48,4 +49,4 @@
 
 ## 其他
 [开源世界旅行手册](https://i.linuxtoy.org/docs/guide/index.html)    
-
+[十亿消费者](https://one-billion-customers-zh-hans.netlify.com/)
