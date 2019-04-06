@@ -21,7 +21,8 @@
 [Introduction to Computer Organization](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)  
 
 ## 程序语言
-[C语言编程透视](https://tinylab.gitbooks.io/cbook/)    
+[C语言编程透视](https://tinylab.gitbooks.io/cbook/)
+[C++ 并发编程](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/)  
 [快乐的Linux命令行](http://billie66.github.io/TLCL/index.html)  
 [我爱Ruby](https://i-love-ruby.gitlab.io/)  
 [Think Python](https://www.ctolib.com/docs/sfile/think-python-2e/0.html)  
@@ -30,7 +31,9 @@
 [Shell 编程范例](https://gitbook.com/book/tinylab/shellbook)  
 [On Lisp](https://www.kancloud.cn/ituring/on-lisp/56192)   
 [Practical Common Lisp](http://www.gigamonkeys.com/book/)  
-[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
+[HTML标准](https://whatwg-cn.github.io/html/)  
+
 
 ## 算法
 
@@ -44,9 +47,11 @@
 
 
 ## 人工智能
-[基于模型的机器学习](http://mbmlbook.com/)      
-[Computational and Inferential Thinking](https://ds8.gitbooks.io/textbook/content/)  
+[基于模型的机器学习](http://mbmlbook.com/)        
+[Computational and Inferential Thinking](https://ds8.gitbooks.io/textbook/content/)    
 
 ## 其他
 [开源世界旅行手册](https://i.linuxtoy.org/docs/guide/index.html)    
 [十亿消费者](https://one-billion-customers-zh-hans.netlify.com/)
+[设计数据密集型应用](https://github.com/Vonng/ddia)   
+[Pro Git 第二版](https://git-scm.com/book/zh/v2)  
