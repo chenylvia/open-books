@@ -33,6 +33,9 @@
 [Practical Common Lisp](http://www.gigamonkeys.com/book/)  
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
 [HTML标准](https://whatwg-cn.github.io/html/)  
+[Test-Driven Web Development with Python](https://www.obeythetestinggoat.com/pages/book.html#toc)  
+[Algorithms](https://github.com/jeffgerickson/algorithms)  
+
 
 
 ## 算法
