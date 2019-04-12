@@ -34,17 +34,19 @@
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
 [HTML标准](https://whatwg-cn.github.io/html/)  
 [Test-Driven Web Development with Python](https://www.obeythetestinggoat.com/pages/book.html#toc)  
-[Algorithms](https://github.com/jeffgerickson/algorithms)  
-
 
 
 ## 算法
+[Algorithms](https://github.com/jeffgerickson/algorithms)  
+
 
 ## 操作系统
 [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
+
 ## 计算机网络
 [计算机网络：系统方法](https://book.systemsapproach.org/)   
+
 
 ## 数据库
 
@@ -52,6 +54,7 @@
 ## 人工智能
 [基于模型的机器学习](http://mbmlbook.com/)        
 [Computational and Inferential Thinking](https://ds8.gitbooks.io/textbook/content/)    
+
 
 ## 其他
 [开源世界旅行手册](https://i.linuxtoy.org/docs/guide/index.html)    
