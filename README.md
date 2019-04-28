@@ -16,6 +16,7 @@
 [几何原本](https://www.c82.net/euclid/)  
 [预测：原理与实践](https://otexts.com/fpp2/)  
 [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)  
+[Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html)  
 
 ## 计算机原理
 [Introduction to Computer Organization](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)  
@@ -44,7 +45,8 @@
 
 
 ## 操作系统
-[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
+[Linux 内核揭秘](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)  
 
 
 ## 计算机网络
