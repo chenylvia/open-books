@@ -58,7 +58,10 @@
 
 ## 人工智能
 [基于模型的机器学习](http://mbmlbook.com/)        
-[Computational and Inferential Thinking](https://ds8.gitbooks.io/textbook/content/)    
+[Computational and Inferential Thinking](https://ds8.gitbooks.io/textbook/content/)   
+[Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space/)  
+[神经网络与深度学习](https://nndl.github.io/)  
+
 
 
 ## 其他
