@@ -37,6 +37,7 @@
 [Test-Driven Web Development with Python](https://www.obeythetestinggoat.com/pages/book.html#toc)  
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
 [Python for Everybody](https://books.trinket.io/pfe/index.html)  
+[ANSI Common Lisp](https://acl.readthedocs.io/en/latest/zhCN/index.html)  
 
 
 
