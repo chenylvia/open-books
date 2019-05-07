@@ -38,6 +38,7 @@
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
 [Python for Everybody](https://books.trinket.io/pfe/index.html)  
 [ANSI Common Lisp](https://acl.readthedocs.io/en/latest/zhCN/index.html)  
+[React.js小书](http://huziketang.mangojuice.top/books/react/)  
 
 
 
