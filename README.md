@@ -17,6 +17,7 @@
 [预测：原理与实践](https://otexts.com/fpp2/)  
 [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)  
 [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html)  
+[The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=3274)  
 
 ## 计算机原理
 [Introduction to Computer Organization](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)  
