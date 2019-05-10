@@ -39,6 +39,7 @@
 [Python for Everybody](https://books.trinket.io/pfe/index.html)  
 [ANSI Common Lisp](https://acl.readthedocs.io/en/latest/zhCN/index.html)  
 [React.js小书](http://huziketang.mangojuice.top/books/react/)  
+[Python Cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/preface.html)  
 
 
 
