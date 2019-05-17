@@ -74,4 +74,5 @@
 [十亿消费者](https://one-billion-customers-zh-hans.netlify.com/)
 [设计数据密集型应用](https://github.com/Vonng/ddia)   
 [Pro Git 第二版](https://git-scm.com/book/zh/v2)  
-[业余无线电爱好者入门](https://www.yuque.com/ham/base/iw8xi2)
+[业余无线电爱好者入门](https://www.yuque.com/ham/base/iw8xi2)  
+[鲁迅博物馆](http://cx.luxunmuseum.com.cn/default.aspx)
