@@ -75,4 +75,5 @@
 [设计数据密集型应用](https://github.com/Vonng/ddia)   
 [Pro Git 第二版](https://git-scm.com/book/zh/v2)  
 [业余无线电爱好者入门](https://www.yuque.com/ham/base/iw8xi2)  
-[鲁迅博物馆](http://cx.luxunmuseum.com.cn/default.aspx)
+[鲁迅博物馆](http://cx.luxunmuseum.com.cn/default.aspx)  
+[沉浸式学 Git](http://igit.linuxtoy.org/)  
