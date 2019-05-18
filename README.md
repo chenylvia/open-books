@@ -43,6 +43,7 @@
 [Python Cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/preface.html)  
 [Haskell趣学指南](http://fleurer.github.io/lyah/chapters.htm)  
 [Go Web编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)  
+[精通Python设计模式](https://github.com/cundi/Mastering.Python.Design.Patterns)  
 
 
 
@@ -78,3 +79,4 @@
 [业余无线电爱好者入门](https://www.yuque.com/ham/base/iw8xi2)  
 [鲁迅博物馆](http://cx.luxunmuseum.com.cn/default.aspx)  
 [沉浸式学 Git](http://igit.linuxtoy.org/)  
+[图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html#)  
