@@ -42,6 +42,7 @@
 [React.js小书](http://huziketang.mangojuice.top/books/react/)  
 [Python Cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/preface.html)  
 [Haskell趣学指南](http://fleurer.github.io/lyah/chapters.htm)  
+[Go Web编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)  
 
 
 
