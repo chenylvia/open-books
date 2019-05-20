@@ -54,6 +54,7 @@
 ## 操作系统
 [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
 [Linux 内核揭秘](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)  
+[理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)  
 
 
 ## 计算机网络
