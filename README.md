@@ -62,6 +62,7 @@
 
 
 ## 数据库
+[Redis 设计与实现](http://redisbook.com/)  
 
 
 ## 人工智能
@@ -81,3 +82,4 @@
 [鲁迅博物馆](http://cx.luxunmuseum.com.cn/default.aspx)  
 [沉浸式学 Git](http://igit.linuxtoy.org/)  
 [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html#)  
+[Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_(Simplified))  
