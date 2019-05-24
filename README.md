@@ -59,6 +59,7 @@
 
 ## 计算机网络
 [计算机网络：系统方法](https://book.systemsapproach.org/)   
+[网络基本功](https://legacy.gitbook.com/book/wizardforcel/network-basic/details) 
 
 
 ## 数据库
