@@ -63,6 +63,7 @@
 
 ## 数据库
 [Redis 设计与实现](http://redisbook.com/)  
+[Foundations of Databases](http://webdam.inria.fr/Alice/)  
 
 
 ## 人工智能
@@ -70,6 +71,7 @@
 [Computational and Inferential Thinking](https://ds8.gitbooks.io/textbook/content/)   
 [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space/)  
 [神经网络与深度学习](https://nndl.github.io/)  
+[Principles and Techniques of Data Science](https://www.textbook.ds100.org/)  
 
 
 
