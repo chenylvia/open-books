@@ -74,6 +74,7 @@
 [神经网络与深度学习](https://nndl.github.io/)  
 [Principles and Techniques of Data Science](https://www.textbook.ds100.org/)  
 [AI算法工程师手册](http://www.huaxiaozhuan.com/)  
+[PyTorch 中文手册](https://github.com/zergtant/pytorch-handbook)  
 
 
 
