@@ -44,6 +44,7 @@
 [Haskell趣学指南](http://fleurer.github.io/lyah/chapters.htm)  
 [Go Web编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)  
 [精通Python设计模式](https://github.com/cundi/Mastering.Python.Design.Patterns)  
+[Haskell 趣学指南](http://fleurer.github.io/lyah/)  
 
 
 
