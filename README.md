@@ -88,3 +88,4 @@
 [沉浸式学 Git](http://igit.linuxtoy.org/)  
 [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html#)  
 [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_(Simplified))  
+[任正非思想之路](https://github.com/ttpianobirds/RenZhengfei)  
