@@ -44,7 +44,8 @@
 [Haskell趣学指南](http://fleurer.github.io/lyah/chapters.htm)  
 [Go Web编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)  
 [精通Python设计模式](https://github.com/cundi/Mastering.Python.Design.Patterns)  
-[500 Lines or Less](http://aosabook.org/en/index.html)
+[500 Lines or Less](http://aosabook.org/en/index.html)  
+[How To Code in Python](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)  
 
 
 
@@ -76,6 +77,8 @@
 [Principles and Techniques of Data Science](https://www.textbook.ds100.org/)  
 [AI算法工程师手册](http://www.huaxiaozhuan.com/)  
 [PyTorch 中文手册](https://github.com/zergtant/pytorch-handbook)  
+[Machine Learning Projects: Python](https://www.digitalocean.com/community/tutorials/machine-learning-projects-python-a-digitalocean-ebook)  
+[Probability for Data Science](http://prob140.org/textbook/chapters/README)  
 
 
 
