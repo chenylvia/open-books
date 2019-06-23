@@ -8,7 +8,8 @@
 - [算法](#算法)  
 - [操作系统](#操作系统)  
 - [计算机网络](#计算机网络) 
-- [数据库](#数据库)
+- [数据库](#数据库)  
+- [大数据](#大数据) 
 - [人工智能](#人工智能)  
 - [其他](#其他)  
 
@@ -67,6 +68,10 @@
 ## 数据库
 [Redis 设计与实现](http://redisbook.com/)  
 [Foundations of Databases](http://webdam.inria.fr/Alice/)  
+
+
+## 大数据
+[走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)  
 
 
 ## 人工智能
