@@ -63,7 +63,10 @@
 ## 计算机网络
 [计算机网络：系统方法](https://book.systemsapproach.org/)   
 [网络基本功](https://legacy.gitbook.com/book/wizardforcel/network-basic/details)  
+[]()
 [http2 explained](https://daniel.haxx.se/http2/)  
+[HTTP/3详解](https://http3-explained.haxx.se/zh/)  
+[HTTP/3 explained](https://daniel.haxx.se/http3-explained/)  
 
 
 ## 数据库
