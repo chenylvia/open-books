@@ -47,6 +47,7 @@
 [精通Python设计模式](https://github.com/cundi/Mastering.Python.Design.Patterns)  
 [500 Lines or Less](http://aosabook.org/en/index.html)  
 [How To Code in Python](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)  
+[Python进阶](https://eastlakeside.gitbooks.io/interpy-zh/content/)  
 
 
 
