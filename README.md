@@ -78,6 +78,7 @@
 ## 大数据
 [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)  
 [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)  
+[Spark 编程指南](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)  
 
 
 ## 人工智能
