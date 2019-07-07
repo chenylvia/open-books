@@ -22,6 +22,7 @@
 
 ## 计算机原理
 [Introduction to Computer Organization](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)  
+[深入理解并行编程](http://ifeve.com/perfbook/)  
 
 ## 程序语言
 [C语言编程透视](https://tinylab.gitbooks.io/cbook/)
