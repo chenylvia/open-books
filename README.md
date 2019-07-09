@@ -72,6 +72,10 @@
 [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)  
 
 
+## 信息安全
+[渗透测试实战第三版](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)  
+
+
 ## 数据库
 [Redis 设计与实现](http://redisbook.com/)  
 [Foundations of Databases](http://webdam.inria.fr/Alice/)  
