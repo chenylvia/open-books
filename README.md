@@ -115,3 +115,4 @@
 [任正非思想之路](https://github.com/ttpianobirds/RenZhengfei)  
 [Mac开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)  
 [OpenCV-Python中文教程](https://www.kancloud.cn/aollo/aolloopencv/269602)  
+[OpenCV-Python Tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)  
