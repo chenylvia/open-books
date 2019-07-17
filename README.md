@@ -51,6 +51,7 @@
 [How To Code in Python](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)  
 [Python进阶](https://eastlakeside.gitbooks.io/interpy-zh/content/)  
 [Java8简明教程](https://github.com/wizardforcel/modern-java-zh)  
+[Real World Haskell 中文版](https://rwh.readthedocs.io/en/latest/)  
 
 
 
