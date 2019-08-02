@@ -22,7 +22,8 @@
 ## 计算机原理
 [Introduction to Computer Organization](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)  
 [深入理解并行编程](http://ifeve.com/perfbook/)  
-[计算机的本质: 深入剖析程序和计算机](https://github.com/ddzy/fe-necessary-book/tree/master/packages/computer/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E6%9C%AC%E8%B4%A8_%E6%B7%B1%E5%85%A5%E5%89%96%E6%9E%90%E7%A8%8B%E5%BA%8F%E5%92%8C%E8%AE%A1%E7%AE%97%E6%9C%BA)
+[计算机的本质: 深入剖析程序和计算机](https://github.com/ddzy/fe-necessary-book/tree/master/packages/computer/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E6%9C%AC%E8%B4%A8_%E6%B7%B1%E5%85%A5%E5%89%96%E6%9E%90%E7%A8%8B%E5%BA%8F%E5%92%8C%E8%AE%A1%E7%AE%97%E6%9C%BA)  
+[Crafting Interpreters](http://craftinginterpreters.com/)  
 
 ## 程序语言
 [C语言编程透视](https://tinylab.gitbooks.io/cbook/)
