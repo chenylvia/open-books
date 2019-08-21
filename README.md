@@ -105,7 +105,7 @@
 [Machine Learning Projects: Python](https://www.digitalocean.com/community/tutorials/machine-learning-projects-python-a-digitalocean-ebook)  
 [Probability for Data Science](http://prob140.org/textbook/chapters/README)  
 [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)  
-
+[Deep Learning](http://www.deeplearningbook.org/)  
 
 
 ## 其他
