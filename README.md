@@ -77,6 +77,7 @@
 [http2 explained](https://daniel.haxx.se/http2/)  
 [HTTP/3详解](https://http3-explained.haxx.se/zh/)  
 [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)  
+[Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/html/multi/index.html)  
 
 
 ## 信息安全
