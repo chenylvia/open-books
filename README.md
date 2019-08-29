@@ -87,6 +87,7 @@
 ## 数据库
 [Redis 设计与实现](http://redisbook.com/)  
 [Foundations of Databases](http://webdam.inria.fr/Alice/)  
+[How Does a Database Work?](https://cstack.github.io/db_tutorial/)      
 
 
 ## 大数据
