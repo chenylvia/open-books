@@ -19,6 +19,7 @@
 [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html)  
 [The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=3274)  
 [使用Julia语言学习统计学](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf)  
+[Mathematics for Machine Learning](https://mml-book.github.io/)  
 
 ## 计算机原理
 [Introduction to Computer Organization](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)  
@@ -86,6 +87,7 @@
 
 ## 信息安全
 [渗透测试实战第三版](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)  
+[An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)  
 
 
 ## 数据库
