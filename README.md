@@ -132,3 +132,4 @@
 [OpenCV-Python中文教程](https://www.kancloud.cn/aollo/aolloopencv/269602)  
 [OpenCV-Python Tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)  
 [Teaching Tech Together](http://teachtogether.tech/)  
+[毕业论文新手入坑手册](https://bookdown.org/wshuyi/intro-to-scientific-writings/)  
