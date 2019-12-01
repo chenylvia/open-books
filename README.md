@@ -56,7 +56,6 @@
 [How To Code in Python](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)  
 [Python进阶](https://eastlakeside.gitbooks.io/interpy-zh/content/)  
 [Java8简明教程](https://github.com/wizardforcel/modern-java-zh)  
-[Real World Haskell 中文版](https://rwh.readthedocs.io/en/latest/)  
 [深入解析Go](https://github.com/tiancaiamao/go-internals)  
 [Learning Golang — from zero to hero](https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/)  
 [html & css is hard](https://internetingishard.com/html-and-css/)  
@@ -65,6 +64,8 @@
 [Ruby on Rails Tutorial](https://www.railstutorial.org/book)   
 [高性能GO代码工坊](https://www.yuque.com/ksco/uiondt)  
 [Learn ClojureScript](https://www.learn-clojurescript.com/)  
+[http://cnhaskell.com/](http://book.realworldhaskell.org/)  
+[Real World Haskell(中文版)](http://cnhaskell.com/)  
 
 
 ## 算法
