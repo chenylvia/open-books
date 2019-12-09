@@ -136,3 +136,4 @@
 [OpenCV-Python Tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)  
 [Teaching Tech Together](http://teachtogether.tech/)  
 [毕业论文新手入坑手册](https://bookdown.org/wshuyi/intro-to-scientific-writings/)  
+[Google's Engineering Practices documentation](https://github.com/google/eng-practices)  
