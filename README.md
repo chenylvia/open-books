@@ -139,3 +139,4 @@
 [Google's Engineering Practices documentation](https://google.github.io/eng-practices/)  
 [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)  
 [软件架构编年史(中文版)](https://www.jianshu.com/p/b477b2cc6cfa)  
+[GitLab手册](https://about.gitlab.com/handbook/)
