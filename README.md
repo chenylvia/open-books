@@ -66,6 +66,7 @@
 [Learn ClojureScript](https://www.learn-clojurescript.com/)  
 [http://cnhaskell.com/](http://book.realworldhaskell.org/)  
 [Real World Haskell(中文版)](http://cnhaskell.com/)  
+[How to Design Programs](https://htdp.org/)  
 
 
 ## 算法
