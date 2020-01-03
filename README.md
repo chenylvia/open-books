@@ -65,8 +65,10 @@
 [高性能GO代码工坊](https://www.yuque.com/ksco/uiondt)  
 [Learn ClojureScript](https://www.learn-clojurescript.com/)  
 [http://cnhaskell.com/](http://book.realworldhaskell.org/)  
-[Real World Haskell(中文版)](http://cnhaskell.com/)  
+[Real World Haskell（中文版）](http://cnhaskell.com/)  
 [How to Design Programs](https://htdp.org/)  
+[The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)  
+[Python最佳实践指南（中文版）](https://pythonguidecn.readthedocs.io/zh/latest/)  
 
 
 ## 算法
