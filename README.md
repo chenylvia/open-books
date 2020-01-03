@@ -79,7 +79,8 @@
 
 ## 操作系统
 [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
-[Linux 内核揭秘](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)  
+[linux-insides](https://0xax.gitbooks.io/linux-insides/content/index.html)  
+[Linux内核揭秘（中文版）](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)  
 [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)  
 
 
