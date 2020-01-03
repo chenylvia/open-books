@@ -69,6 +69,7 @@
 [How to Design Programs](https://htdp.org/)  
 [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)  
 [Python最佳实践指南（中文版）](https://pythonguidecn.readthedocs.io/zh/latest/)  
+[Beginning iOS 10 Programming with Swift](https://www.appcoda.com/learnswift/)  
 
 
 ## 算法
