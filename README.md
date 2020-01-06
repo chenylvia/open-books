@@ -124,6 +124,7 @@
 [Probability for Data Science](http://prob140.org/textbook/chapters/README)  
 [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)  
 [Deep Learning](http://www.deeplearningbook.org/)  
+[Beginning Anomaly Detection Using Python-Based Deep Learning](https://link.springer.com/book/10.1007/978-1-4842-5177-5)  
 
 
 ## 其他
