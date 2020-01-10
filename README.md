@@ -21,6 +21,7 @@
 [使用Julia语言学习统计学](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf)  
 [Mathematics for Machine Learning](https://mml-book.github.io/)  
 [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.htm)  
+[Introduction to Probability, Statistics, and Random Processes](https://probabilitycourse.com/)  
 
 ## 计算机原理
 [Introduction to Computer Organization](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)  
