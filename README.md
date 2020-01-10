@@ -151,3 +151,4 @@
 [Mining Social Media](http://socialdata.site/)  
 [Teach Yourself Computer Science](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS.md)  
 [自学计算机科学（中文版）](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)  
+[CSS Animation 101](https://github.com/cssanimation/css-animation-101)  
