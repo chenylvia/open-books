@@ -22,6 +22,8 @@
 [Mathematics for Machine Learning](https://mml-book.github.io/)  
 [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.htm)  
 [Introduction to Probability, Statistics, and Random Processes](https://probabilitycourse.com/)  
+[Introduction to Stochastic Processes](https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) 
+
 
 ## 计算机原理
 [Introduction to Computer Organization](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)  
