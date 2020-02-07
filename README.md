@@ -32,6 +32,7 @@
 [Crafting Interpreters](http://craftinginterpreters.com/)  
 [Processor Design](http://www.gamezero.com/team-0/articles/math_magic/micro/index.html)  
 [Basics of Compiler Design](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf)  
+[Computer Science from the Bottom Up](https://www.bottomupcs.com/index.xhtml)  
 
 
 ## 程序语言
