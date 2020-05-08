@@ -76,6 +76,7 @@
 [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)  
 [Python最佳实践指南（中文版）](https://pythonguidecn.readthedocs.io/zh/latest/)  
 [Beginning iOS 10 Programming with Swift](https://www.appcoda.com/learnswift/)  
+[深入浅出现代Web编程](https://fullstackopen.com/zh/)  
 
 
 ## 算法
@@ -158,3 +159,4 @@
 [自学计算机科学（中文版）](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)  
 [CSS Animation 101](https://github.com/cssanimation/css-animation-101)  
 [区块链背后的密码学](https://learning.nervos.org/crypto-block/0-intro.html)  
+[Pragmatic Programmer（中文版）](https://caicaishmily.gitbooks.io/pragmatic_programmer/)  
