@@ -88,6 +88,7 @@
 [linux-insides](https://0xax.gitbooks.io/linux-insides/content/index.html)  
 [Linux内核揭秘（中文版）](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)  
 [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)  
+[Linux From Scratch](http://www.linuxfromscratch.org/lfs/view/10.0-rc1/prologue/foreword.html)  
 
 
 ## 计算机网络
